@@ -2,7 +2,7 @@
 <h3 align="center">A passionate ML/AI developer from India</h3>
 <img align="right" alt="Coding" width="400" src='https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif'>
 
-- 🔭 I’m currently working on **ML Projects in ineuron.ai**
+- 🔭 I’m currently working on **ML Projects with ineuron.ai**
 
 - 🌱 I’m currently learning **Deep Learning**
 
