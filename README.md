@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **kailash14916@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1hsS3HBTvU_FYlObg8g3caxe1p394srHrp5A4R0JkkRU/edit?usp=sharing](https://docs.google.com/document/d/1hsS3HBTvU_FYlObg8g3caxe1p394srHrp5A4R0JkkRU/edit?usp=sharing)
+- 📄 Know about my experiences, link to resume : https://docs.google.com/document/d/1hIstUaHRYErjWyO3oYwuTU8ZyFwdgE58w8CkIUVDYf4/edit#heading=h.5x0d5h95i329
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
