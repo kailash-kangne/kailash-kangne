@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm KAILASH KANGNE</h1>
-<h3 align="center">A passionate ML/AI developer from India</h3>
+<h3 align="center">A passionate Full stack Web developer from India</h3>
 <img align="right" alt="Coding" width="400" src='https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif'>
 
-- 🔭 I’m currently working on **ML Projects with ineuron.ai**
+- 🔭 I’m currently working on **Backend Projects (Django & MERN) with Alecta ventures**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m also currently learning **Data Science (ML/DL)**
 
 - 📫 How to reach me **kailash14916@gmail.com**
 
-- 📄 Know about my experiences, link to resume : https://docs.google.com/document/d/1hIstUaHRYErjWyO3oYwuTU8ZyFwdgE58w8CkIUVDYf4/edit#heading=h.5x0d5h95i329
+- 📄 Know about my experiences, checkout my linkedin.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
