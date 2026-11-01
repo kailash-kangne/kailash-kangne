@@ -1,20 +1,65 @@
-<h1 align="center">Hi 👋, I'm KAILASH KANGNE</h1>
-<h3 align="center">A passionate Full stack Web developer from India</h3>
-<img align="right" alt="Coding" width="400" src='https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif'>
+<div align="center">
 
-- 🔭 I’m currently working on **Backend Projects (Django & MERN) with Alecta ventures**
+# Hi, I'm Kailash Kangne
 
-- 🌱 I’m also currently learning **Data Science (ML/DL)**
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=650&lines=Full-stack+engineer+%E2%80%94+Go%2C+Python+%26+React;Microservices+%C2%B7+Event-driven+%C2%B7+AWS;Exploring+Rust+%26+systems+programming" alt="Typing SVG" /></a>
 
-- 📫 How to reach me **kailash14916@gmail.com**
+**Backend in Go & Python, frontends in React, infra on AWS — currently exploring Rust and systems programming.**
 
-- 📄 Know about my experiences, checkout my linkedin.
+<img src="https://komarev.com/ghpvc/?username=kailash-kangne&style=flat-square&color=blueviolet" alt="profile views"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/kailash-kangne-2965a2171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kailash-kangne-2965a2171/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kailash14916" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/kailash14916" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+### About me
+
+- Building production **backend services in Go & Python** — REST APIs, gRPC, **Django** services, event-driven systems on **Kafka**, background job queues, caching with **Redis**
+- Shipping **React + TypeScript** frontends — MUI, Redux Toolkit, Vite
+- Owning infra end-to-end: **AWS** (ECS, S3, SQS, SES), **Terraform**, **Docker**, **Kubernetes**, **GitLab CI/CD**
+- Comfortable across the data layer: **PostgreSQL, MySQL, MongoDB, Redis, GraphQL/Hasura**
+- Earlier: **Flask** and **MERN** stack
+- Open to backend / full-stack opportunities — reach me at **kailash14916@gmail.com**
+
+### What I bring
+
+<div align="center">
+<img src="https://img.shields.io/badge/Microservices-1a1a2e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Event--Driven%20Architecture-16213e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/REST%20%2B%20gRPC%20APIs-0f3460?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Infrastructure%20as%20Code-533483?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CI%2FCD%20%26%20Observability-2b2e4a?style=for-the-badge" />
+<img src="https://img.shields.io/badge/System%20Design-903749?style=for-the-badge" />
+</div>
+
+---
+
+### Tech stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=go,py,django,flask,ts,react,redux,vite&perline=8" />
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,aws,docker,kubernetes&perline=8" />
+<br/>
+<img src="https://skillicons.dev/icons?i=terraform,nginx,linux,git,gitlab,prometheus,postman,rust&perline=8" />
+</div>
+
+---
+
+### GitHub stats
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kailash-kangne&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://streak-stats.demolab.com?user=kailash-kangne&theme=tokyonight&hide_border=true" />
+<br/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kailash-kangne&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+### Connect with me
+
+<div align="center">
+<a href="https://www.linkedin.com/in/kailash-kangne-2965a2171/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:kailash14916@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
